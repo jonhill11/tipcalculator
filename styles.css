@@ -1,0 +1,36 @@
+#results {
+    display:none;
+  }
+
+.container {
+    color:rgb(6, 14, 80)
+}
+
+body {
+    background: linear-gradient(135deg, #b6ebd4, #05692d7b) fixed;
+    padding: 10px;
+    color:rgb(91, 91, 235);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.results {
+    background-color:  rgb(91, 91, 235);
+    color:  rgb(91, 91, 235)
+}
+
+.tip-form {
+    background-color: rgb(87, 234, 146);
+    color:rgb(87, 234, 146)
+}
+
+element.style {
+    padding: 5px;
+}
+
+#totalBillWithTip {
+    background-color: rgb(161, 226, 183);
+}
+
+#tipAmount {
+    background-color: rgb(161, 226, 183);
+}
